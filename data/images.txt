@@ -1,0 +1,277 @@
+Affenpinscher.png
+Afghan Hound.png
+Airedale Terrier.png
+Akita.png
+Alaskan Malamute.png
+American Bulldog.png
+American English Coonhound.png
+American Eskimo Dog.png
+American Foxhound.png
+American Hairless Terrier.png
+American Leopard Hound.png
+American Staffordshire Terrier.png
+American Water Spaniel.png
+Anatolian Shepherd Dog.png
+Appenzeller Sennenhund.png
+Australian Cattle Dog.png
+Australian Kelpie.png
+Australian Shepherd.png
+Australian Stumpy Tail Cattle Dog.png
+Australian Terrier.png
+Azawakh.png
+Barbet.png
+Basenji.png
+Basset Fauve de Bretagne.png
+Basset Hound.png
+Bavarian Mountain Scent Hound.png
+Beagle.png
+Bearded Collie.png
+Beauceron.png
+Bedlington Terrier.png
+Belgian Laekenois.png
+Belgian Malinois.png
+Belgian Sheepdog.png
+Belgian Tervuren.png
+Bergamasco Sheepdog.png
+Berger Picard.png
+Bernese Mountain Dog.png
+Bichon Frise.png
+Biewer Terrier.png
+Black and Tan Coonhound.png
+Black Russian Terrier.png
+Bloodhound.png
+Bluetick Coonhound.png
+Boerboel.png
+Bohemian Shepherd.png
+Bolognese.png
+Border Collie.png
+Border Terrier.png
+Borzoi.png
+Boston Terrier.png
+Bouvier des Flandres.png
+Boxer.png
+Boykin Spaniel.png
+Bracco Italiano.png
+Braque du Bourbonnais.png
+Braque Francais Pyrenean.png
+Briard.png
+Brittany.png
+Broholmer.png
+Brussels Griffon.png
+Bulldog.png
+Bullmastiff.png
+Bull Terrier.png
+Cairn Terrier.png
+Canaan Dog.png
+Cane Corso.png
+Cardigan Welsh Corgi.png
+Carolina Dog.png
+Catahoula Leopard Dog.png
+Caucasian Shepherd Dog.png
+Cavalier King Charles Spaniel.png
+Central Asian Shepherd Dog.png
+Cesky Terrier.png
+Chesapeake Bay Retriever.png
+Chihuahua.png
+Chinese Crested.png
+Chinese Shar-Pei.png
+Chinook.png
+Chow Chow.png
+Cirneco dell’Etna.png
+Clumber Spaniel.png
+Cocker Spaniel.png
+Collie.png
+Coton de Tulear.png
+Croatian Sheepdog.png
+Curly-Coated Retriever.png
+Czechoslovakian Vlcak.png
+Dachshund.png
+Dalmatian.png
+Dandie Dinmont Terrier.png
+Danish-Swedish Farmdog.png
+Deutscher Wachtelhund.png
+Doberman Pinscher.png
+Dogo Argentino.png
+Dogue de Bordeaux.png
+Drentsche Patrijshond.png
+Drever.png
+Dutch Shepherd.png
+English Cocker Spaniel.png
+English Foxhound.png
+English Setter.png
+English Springer Spaniel.png
+English Toy Spaniel.png
+Entlebucher Mountain Dog.png
+Estrela Mountain Dog.png
+Eurasier.png
+Field Spaniel.png
+Finnish Lapphund.png
+Finnish Spitz.png
+Flat-Coated Retriever.png
+French Bulldog.png
+French Spaniel.png
+German Longhaired Pointer.png
+German Pinscher.png
+German Shepherd Dog.png
+German Shorthaired Pointer.png
+German Spitz.png
+German Wirehaired Pointer.png
+Giant Schnauzer.png
+Glen of Imaal Terrier.png
+Golden Retriever.png
+Gordon Setter.png
+Grand Basset Griffon Vendéen.png
+Great Dane.png
+Greater Swiss Mountain Dog.png
+Great Pyrenees.png
+Greyhound.png
+Hamiltonstovare.png
+Hanoverian Scenthound.png
+Harrier.png
+Havanese.png
+Hokkaido.png
+Hovawart.png
+Ibizan Hound.png
+Icelandic Sheepdog.png
+Irish Red and White Setter.png
+Irish Setter.png
+Irish Terrier.png
+Irish Water Spaniel.png
+Irish Wolfhound.png
+Italian Greyhound.png
+Jagdterrier.png
+Japanese Chin.png
+Japanese Spitz.png
+Jindo.png
+Kai Ken.png
+Karelian Bear Dog.png
+Keeshond.png
+Kerry Blue Terrier.png
+Kishu Ken.png
+Komondor.png
+Kromfohrlander.png
+Kuvasz.png
+Labrador Retriever.png
+Lagotto Romagnolo.png
+Lakeland Terrier.png
+Lancashire Heeler.png
+Lapponian Herder.png
+Leonberger.png
+Lhasa Apso.png
+Löwchen.png
+Maltese.png
+Manchester Terrier (Standard).png
+Manchester Terrier (Toy).png
+Mastiff.png
+Miniature American Shepherd.png
+Miniature Bull Terrier.png
+Miniature Pinscher.png
+Miniature Schnauzer.png
+Mountain Cur.png
+Mudi.png
+Neapolitan Mastiff.png
+Nederlandse Kooikerhondje.png
+Newfoundland.png
+Norfolk Terrier.png
+Norrbottenspets.png
+Norwegian Buhund.png
+Norwegian Elkhound.png
+Norwegian Lundehund.png
+Norwich Terrier.png
+Nova Scotia Duck Tolling Retriever.png
+Old English Sheepdog.png
+Otterhound.png
+Papillon.png
+Parson Russell Terrier.png
+Pekingese.png
+Pembroke Welsh Corgi.png
+Perro de Presa Canario.png
+Peruvian Inca Orchid.png
+Petit Basset Griffon Vendéen.png
+Pharaoh Hound.png
+Plott Hound.png
+Pointer.png
+Polish Lowland Sheepdog.png
+Pomeranian.png
+Poodle (Miniature).png
+Poodle (Standard).png
+Poodle (Toy).png
+Porcelaine.png
+Portuguese Podengo Pequeno.png
+Portuguese Podengo.png
+Portuguese Pointer.png
+Portuguese Sheepdog.png
+Portuguese Water Dog.png
+Pudelpointer.png
+Pug.png
+Puli.png
+Pumi.png
+Pyrenean Mastiff.png
+Pyrenean Shepherd.png
+Rafeiro do Alentejo.png
+Rat Terrier.png
+Redbone Coonhound.png
+Rhodesian Ridgeback.png
+Romanian Mioritic Shepherd Dog.png
+Rottweiler.png
+Russell Terrier.png
+Russian Toy.png
+Russian Tsvetnaya Bolonka.png
+Saint Bernard.png
+Saluki.png
+Samoyed.png
+Schapendoes.png
+Schipperke.png
+Scottish Deerhound.png
+Scottish Terrier.png
+Sealyham Terrier.png
+Segugio Italiano.png
+Shetland Sheepdog.png
+Shiba Inu.png
+Shih Tzu.png
+Shikoku.png
+Siberian Husky.png
+Silky Terrier.png
+Skye Terrier.png
+Sloughi.png
+Slovakian Wirehaired Pointer.png
+Slovensky Cuvac.png
+Slovensky Kopov.png
+Small Munsterlander Pointer.png
+Smooth Fox Terrier.png
+Soft Coated Wheaten Terrier.png
+Spanish Mastiff.png
+Spanish Water Dog.png
+Spinone Italiano.png
+Stabyhoun.png
+Staffordshire Bull Terrier.png
+Standard Schnauzer.png
+Sussex Spaniel.png
+Swedish Lapphund.png
+Swedish Vallhund.png
+Taiwan Dog.png
+Teddy Roosevelt Terrier.png
+Thai Ridgeback.png
+Tibetan Mastiff.png
+Tibetan Spaniel.png
+Tibetan Terrier.png
+Tornjak.png
+Tosa.png
+Toy Fox Terrier.png
+Transylvanian Hound.png
+Treeing Tennessee Brindle.png
+Treeing Walker Coonhound.png
+Vizsla.png
+Weimaraner.png
+Welsh Springer Spaniel.png
+Welsh Terrier.png
+West Highland White Terrier.png
+Wetterhoun.png
+Whippet.png
+Wire Fox Terrier.png
+Wirehaired Pointing Griffon.png
+Wirehaired Vizsla.png
+Working Kelpie.png
+Xoloitzcuintli.png
+Yakutian Laika.png
+Yorkshire Terrier.png
